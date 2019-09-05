@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Satisfy&display=swap');
+.navbar {
+  background-image: linear-gradient(to left, #00c6fb 0%, #005bea 100%);
+  font-family: 'Satisfy', cursive;
+}
+
+.nav-text {
+  color: rgb(229, 226, 226);
+  font-size: 24px;
+}

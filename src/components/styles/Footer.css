@@ -1,0 +1,14 @@
+.footer {
+  height: 9vh;
+  border-top: solid 1px #d1d1d1;
+}
+
+.git-icon {
+  font-size: 60px;
+  color: #d1d1d1;
+  text-decoration: none !important;
+}
+
+.git-icon :hover {
+  text-decoration: none;
+}
